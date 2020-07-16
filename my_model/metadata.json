@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"0.8.6","packageVersion":"0.8.6","packageName":"@teachablemachine/pose","timeStamp":"2020-07-04T08:31:55.204Z","userMetadata":{},"modelName":"my-pose-model","labels":["척추2. 정면손위로","척추2. 왼쪽","척추3.오른쪽","척추3.wrong다리"],"modelSettings":{"posenet":{"architecture":"MobileNetV1","outputStride":16,"inputResolution":257,"multiplier":0.75}}}
